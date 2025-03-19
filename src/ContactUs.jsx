@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const ContactUs = () => {
-  const phoneNumber = 9398944199;  // Replace with your actual phone number
+  const phoneNumber = 7842629682;  // Replace with your actual phone number
   const whatsappLink = `https://wa.me/${phoneNumber}?text=Hello!%20I%20would%20like%20to%20contact%20you.`;
 
   return (
