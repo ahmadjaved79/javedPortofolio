@@ -36,8 +36,8 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 ## 🔧 Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-   cd your-portfolio
+   git clone https://github.com/ahmadjaved79/javedPortofolio.git
+   cd javedPortofolio
    ```
 
 2. **Install dependencies**
