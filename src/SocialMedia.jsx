@@ -3,36 +3,43 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaTwitter, FaInstagram,FaYoutube } from "react-icons/fa";
 
 const socialMedia = [
   {
     name: "LinkedIn",
     icon: <FaLinkedin />,
-    link: "https://www.linkedin.com/in/jammula-mahendra",
+    link: "https://www.linkedin.com/in/ahmadjaved123/",
     color: "bg-gradient-to-r from-blue-500 to-blue-800",
     shadow: "shadow-blue-500/50",
   },
   {
     name: "GitHub",
     icon: <FaGithub />,
-    link: "https://github.com/mahendra2821",
+    link: "https://github.com/ahmadjaved79",
     color: "bg-gradient-to-r from-gray-700 to-black",
     shadow: "shadow-gray-400/50",
   },
   {
     name: "Twitter",
     icon: <FaTwitter />,
-    link: "https://x.com/JammulaMahendr3",
+    link: "https://x.com/ja24954944",
     color: "bg-gradient-to-r from-cyan-400 to-blue-600",
     shadow: "shadow-cyan-400/50",
   },
   {
     name: "Instagram",
     icon: <FaInstagram />,
-    link: "https://instagram.com/jammulamahendra_10",
+    link: "https://www.instagram.com/javed_tech_info/",
     color: "bg-gradient-to-r from-pink-500 to-purple-600",
     shadow: "shadow-pink-500/50",
+  },
+  {
+    name: "Youtube",
+    icon: <FaYoutube />,
+    link: "https://www.youtube.com/@AhmadjavedShaik",
+    color: "bg-gradient-to-r from-red-500 to-purple-600",
+    shadow: "shadow-brown-500/50",
   },
 ];
 

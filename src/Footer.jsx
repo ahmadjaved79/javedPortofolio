@@ -51,7 +51,7 @@ const Footer = () => {
           {/* Social Media Links */}
           <div className="flex gap-6 mb-6 sm:mb-0">
             <motion.a
-              href="https://github.com/mahendra2821"
+              href="https://github.com/ahmadjaved79"
               target="_blank"
               rel="noopener noreferrer"
 
@@ -63,7 +63,7 @@ const Footer = () => {
               <FaGithub />
             </motion.a>
             <motion.a
-              href="https://www.linkedin.com/in/jammula-mahendra"
+              href="https://www.linkedin.com/in/ahmadjaved123/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-blue-500 transition duration-300"
@@ -73,7 +73,7 @@ const Footer = () => {
               <FaLinkedin />
             </motion.a>
             <motion.a
-              href="https://x.com/JammulaMahendr3"
+              href="https://x.com/ja24954944"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-blue-400 transition duration-300"
@@ -83,7 +83,7 @@ const Footer = () => {
               <FaTwitter />
             </motion.a>
             <motion.a
-              href="https://instagram.com/jammulamahendra_10"
+              href="https://www.instagram.com/javed_tech_info/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-pink-500 transition duration-300"
@@ -96,7 +96,7 @@ const Footer = () => {
 
           {/* Copyright Text */}
           <p className="text-center text-gray-400 text-sm">
-            &copy; {new Date().getFullYear()} Jammula Mahendra Babu. All rights reserved.
+            &copy; {new Date().getFullYear()} Ahmad Javed. All rights reserved.
           </p>
         </div>
       </div>

@@ -4,23 +4,19 @@ import Modal from "react-modal";
 
 const projects = [
   {
-    title: "BookStore",
-    img: "https://media-hosting.imagekit.io//3b6071ac4fe54065/Screenshot%202025-01-04%20070305.png?Expires=1833788916&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=GbWdIdHxxU5obIfkNVdysccFqPEcExDQ2WDjbnBPuvnLMds3IBqUAjf44gQQmka~pFgzIL6s62K1q~tphWVnThEoyWttyF6JgYEFR6vogqUbUcdz-M1C9kpFrt0SuqkSVMtESGWV7es2O3J7u13q8eNQzi12U7hV9Wy13ASqeA7wCxpJwNjBk4j6G5oxtVSPJsMe3bN~8ASojhZRALft1dzAZQpnR8nr1pQ6kMYuEJT~EWX3KUWMF74PB8cNVfCv162T95Sj0HshUxblNs8usk63R1UEtYw~iVRJQgSeSGLvL1HZh9Ff0X7KHGZe4nAv4WkiH-yI9ONvxfvyChBUcA__",
-    github_Frontend: "https://github.com/mahendra2821/BookStore_FrontEnd",
-    github_Backend : "https://github.com/mahendra2821/BookStore",
-    live_link : "https://676a1164643ca10008b7aba5--superlative-jalebi-2b55cb.netlify.app/",
-
-  
-
-    
-    
+    title: "EQuizecet",
+    description:" This project is designed to help students prepare for the ECET exam with quizzes focused on MPC (Mathematics, Physics, Chemistry) subjects. The quizzes are categorized by difficulty levels, including easy, medium, and hard, allowing students to practice according to their knowledge level.",
+    img: "https://res.cloudinary.com/dcmt06mac/image/upload/v1742146680/nxtwave%20certificates/equiz_frnxl6.png",
+    github_Frontend: "https://github.com/ahmadjaved79/EQuiz/tree/main/final",
+    github : "",
+    live_link : "https://equiz-ecet-git-main-shaikahmadjaveds-projects.vercel.app/",  
   },
   {
     title: "Student Dashboard",
     description: "",
     img: "https://media-hosting.imagekit.io//e7528612113f4325/Screenshot%202025-02-10%20155811.png?Expires=1833791377&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JA1VDY5PS7buhOAbQmZfpiBS4vveYgNqNZcxM6sX001xatrrsDhnvbR6fKpdBwW8wKBChuVij20Lr0pOfxS1lKiU-QM44aCttPY~FhIP4ND53J0LIYqjG5QnIVATQMTeqlzAMIh2C9uz08L-DIwNXbDsj7ZtRgbszj00Pa95~rY4TViRYN6xvQ08PqIZghitIuywRGChkFqf96ePbrPonJ3wuvO9QPNsCriqIA90D3ytDzu3MxhFwOP3dExXDYEImV9iMUYsjbPsU2WLGR2SvWN8ZQrcZbKo1JHsvO0gBjY01QdhT0H7auVbOglhLFwpc1aimht9vUUxe9Dkcf3E~w__",
-    github_Frontend: "https://github.com/mahendra2821/StudentDashBoard-Frontend-adminPanel",
-    github_Backend : "https://github.com/mahendra2821/StudentDashBoard",
+    github_Frontend: "https://github.com/ahmadjaved79/studentDashboardAdminPanel",
+    github_Backend : "https://github.com/ahmadjaved79/studentDashboard",
     live_link : "https://studentresults-adminpanel.netlify.app/",
   },
 
